@@ -76,3 +76,5 @@ expo-font
 Author
 Name: Gyabaah Felix
 ID: 11227253
+screenshots  of app 
+(![Screenshot 1](<../assets/Screenshot 2024-06-19 040348.png>) ![Screenshot 2](<../assets/Screenshot 2024-06-19 040414.png>))
